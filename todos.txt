@@ -1,0 +1,8 @@
+cook
+lift
+walk
+play
+fast
+homework
+laundry
+dinner
