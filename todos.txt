@@ -6,3 +6,8 @@ fast
 homework
 laundry
 dinner
+go for a walk
+master python
+master python
+master javascript
+master data science
